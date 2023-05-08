@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raúl Peñate</h1>
 <h3 align="center">I am a highly motivated software developer passionate for learning, and I continue to grow both professionally and personally.</h3>
 
-- 🌱 I’m currently learning **React** 😎
+- 🌱 I’m currently learning **React 😎** 
 
-- 💬 Ask me about **vue, typescript and life...** 
+- 💬 Ask me about **vue, typescript and life... 🧐** 
  
-- 📫 How to reach me **raul.h.penate@gmail.com** 🧐
+- 📫 How to reach me **raul.h.penate@gmail.com**
 
-- ⚡ Fun fact **bwt i use arch :)** 🥸
+- ⚡ Fun fact **bwt i use arch 🥸** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
