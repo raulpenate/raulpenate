@@ -7,7 +7,7 @@
  
 - 📫 How to reach me **raul.h.penate@gmail.com**
 
-- ⚡ Fun fact **bwt i use arch 🥸** 
+- ⚡ Fun fact **btw i use arch 🥸** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
