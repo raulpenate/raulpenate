@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **vue, typescript and life... 🧐** 
  
-- 📫 How to reach me **raul.h.penate@gmail.com**
+- 📫 How to reach me **dev.raulpenate@gmail.com**
 
 - ⚡ Fun fact **btw i use arch 🥸** 
 
