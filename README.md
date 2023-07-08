@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raúl Peñate</h1>
 <h3 align="center">I am a highly motivated software developer passionate for learning, and I continue to grow both professionally and personally.</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://raulpenate.github.io/portfolio/](https://raulpenate.github.io/portfolio/)
 
-- 💬 Ask me about **vue and springboot**
+- 💬 Ask me about **Vue & Spring Boot**
 
 - 📫 How to reach me **dev.raulpenate@gmail.com**
 
-- ⚡ Fun fact **I've an arch linux installer in https://github.com/raulpenate/archinstaller**
+- ⚡ Fun fact **I've an Arch Linux installer in https://github.com/raulpenate/archinstaller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
