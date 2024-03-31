@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raúl Peñate</h1>
 <h3 align="center">I am a highly motivated software developer passionate about learning, and I continue to grow both professionally and personally.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://raulpenate.github.io/portfolio/](https://raulpenate.github.io/portfolio/)
 
