@@ -31,7 +31,9 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   <summary style="text-align: center;">A Quote from a random Developer 🧬</summary>
   
   <div align="center">
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+      <a href="https://github.com/piyushsuthar/github-readme-quotes">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+      </a>
   </div>
 </details>
 
