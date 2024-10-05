@@ -100,4 +100,8 @@
 
 ###
 
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=raulpenate)](https://dev.to/raulpenate)
+<div align="center">
+  [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=raulpenate)](https://dev.to/raulpenate)
+</div>
+
+###
