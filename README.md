@@ -1,34 +1,40 @@
-### Hello! Raúl Peñate
-A SWE and future Cloud Engineer loves to work with Typescript, Golang, C#, and Java.
+### Hello! I'm Raúl Peñate
+A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, and Java.
 
 <details>
-  <summary>Github Stats 📊</summary>
+  <summary style="text-align: center;">Github Stats 📊</summary>
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a> |
-  | ------------- | ------------- |
+  <div align="center">
+    | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a> |
+    | ------------- | ------------- |
+  </div>
 </details>
 
 <details open>
-  <summary>Currently listening 🎶</summary>
+  <summary style="text-align: center;">Currently listening 🎶</summary>
   
-<div align="center">
-  <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=37ru5rna02jrtz4w8tq99icfl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=37ru5rna02jrtz4w8tq99icfl&count=5" alt="Spotify recently played"  />
+    </a>
+  </div>
 </details>
 
 <details>
-  <summary>Let's connect 🤝</summary>
+  <summary style="text-align: center;">Let's connect 🤝</summary>
   
-  | <a href="https://discord.com/users/raul_penate"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">raul_penate</a> |   | <a href="https://www.linkedin.com/in/raulpenate/"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/linkedin">Raúl Peñate</a> |
+  <div align="center">
+    | <a href="https://discord.com/users/raul_penate"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">raul_penate</a> |   | <a href="https://www.linkedin.com/in/raulpenate/"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/linkedin">Raúl Peñate</a> |
+  </div>
 </details>
 
 <details>
-  <summary>A Quote from a random Developer 🧬</summary>
+  <summary style="text-align: center;">A Quote from a random Developer 🧬</summary>
   
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenate/github-readme-quotes) |
-  |---|
+  <div align="center">
+    | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenate/github-readme-quotes) |
+    |---|
+  </div>
 </details>
 
 <h1 align="center">Tech that I know</h1>
@@ -99,4 +105,4 @@ A SWE and future Cloud Engineer loves to work with Typescript, Golang, C#, and J
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
+</div>
