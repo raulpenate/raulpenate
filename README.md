@@ -21,7 +21,7 @@ A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and J
 <details>
   <summary>Let's connect 🤝</summary>
   
-  | <a href="https://twitter.com/raulpenatesthr"><img width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @raulpenateSthr</a> | <a href="https://discord.com/users/441955841260912650"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> raulpenate Suthar#4113</a> |
+  | <a href="https://discord.com/users/raul_penate"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">raul_penate</a> |
   |---|---|
 </details>
 
