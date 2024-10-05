@@ -1,7 +1,5 @@
-### Hello! I'm Piyush Suthar
-A self-taught developer from India who loves to work with Typescript, Rust, and Golang.
-
-Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/) and playing the flute.
+### Hello! Raúl Peñate
+A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and Java.
 
 <details>
   <summary>Github Stats 📊</summary>
