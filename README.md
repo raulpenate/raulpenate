@@ -1,6 +1,7 @@
 ### Hello! I'm Raúl Peñate
 A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, and Java.
 
+
 <details>
   <summary style="text-align: center;">Github Stats 📊</summary>
   
@@ -15,6 +16,16 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   <div align="center">
     <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=37ru5rna02jrtz4w8tq99icfl&count=5" alt="Spotify recently played"  />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary style="text-align: center;">My last article 📝</summary>
+  
+  <div align="center">
+    <a href="https://dev.to/raulpenate">
+      <img src="https://latest-devto-post.vercel.app/api?username=raulpenate" alt="Latest Dev.to">
     </a>
   </div>
 </details>
