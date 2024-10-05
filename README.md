@@ -4,7 +4,7 @@ A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and J
 <details>
   <summary>Github Stats 📊</summary>
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact&theme=vue&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenatesuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenatesuthar&layout=compact&theme=vue&hide_border=true" /></a> |
   | ------------- | ------------- |
 </details>
 
@@ -21,14 +21,14 @@ A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and J
 <details>
   <summary>Let's connect 🤝</summary>
   
-  | <a href="https://twitter.com/piyushsthr"><img width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @PiyushSthr</a> | <a href="https://discord.com/users/441955841260912650"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> Piyush Suthar#4113</a> |
+  | <a href="https://twitter.com/raulpenatesthr"><img width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @raulpenateSthr</a> | <a href="https://discord.com/users/441955841260912650"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> raulpenate Suthar#4113</a> |
   |---|---|
 </details>
 
 <details>
   <summary>A Quote from a random Developer 🧬</summary>
   
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) |
+  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenatesuthar/github-readme-quotes) |
   |---|
 </details>
 
