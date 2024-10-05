@@ -101,7 +101,10 @@
 ###
 
 <div align="center">
-  [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=raulpenate)](https://dev.to/raulpenate)
+  <a href="https://dev.to/raulpenate">
+    <img src="https://latest-devto-post.vercel.app/api?username=raulpenate" alt="Latest Dev.to">
+  </a>
 </div>
+
 
 ###
