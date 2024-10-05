@@ -8,12 +8,14 @@ A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and J
   | ------------- | ------------- |
 </details>
 
-<details>
+<details open>
   <summary>Currently listening 🎶</summary>
   
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
+<div align="center">
+  <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=37ru5rna02jrtz4w8tq99icfl&count=5" alt="Spotify recently played"  />
   </a>
+</div>
 </details>
 
 <details>
