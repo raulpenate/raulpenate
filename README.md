@@ -31,7 +31,7 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   <summary style="text-align: center;">A Quote from a random Developer 🧬</summary>
   
   <div align="center">
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenate/github-readme-quotes)]
+    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   </div>
 </details>
 
