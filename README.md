@@ -23,7 +23,7 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   <summary style="text-align: center;">Let's connect 🤝</summary>
   
   <div align="center">
-    <a href="https://discord.com/users/raul_penate"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">raul_penate</a> |   | <a href="https://www.linkedin.com/in/raulpenate/"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/linkedin">Raúl Peñate</a>
+    <a href="https://www.linkedin.com/in/raulpenate/"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> Raúl Peñate</a>
   </div>
 </details>
 
