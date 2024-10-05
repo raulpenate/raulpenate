@@ -1,10 +1,10 @@
 ### Hello! Raúl Peñate
-A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and Java.
+A SWE and future Cloud Engineer loves to work with Typescript, Golang, C#, and Java.
 
 <details>
   <summary>Github Stats 📊</summary>
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenatesuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenatesuthar&layout=compact&theme=vue&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a> |
   | ------------- | ------------- |
 </details>
 
@@ -22,13 +22,12 @@ A SWE and future Clould Engineer loves to work with Typescript, Golang, C# and J
   <summary>Let's connect 🤝</summary>
   
   | <a href="https://discord.com/users/raul_penate"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">raul_penate</a> |   | <a href="https://www.linkedin.com/in/raulpenate/"><img width="20" src="https://cdn.cdnlogo.com/logos/d/43/linkedin">Raúl Peñate</a> |
-  |---|---|
 </details>
 
 <details>
   <summary>A Quote from a random Developer 🧬</summary>
   
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenatesuthar/github-readme-quotes) |
+  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenate/github-readme-quotes) |
   |---|
 </details>
 
