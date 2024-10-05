@@ -113,6 +113,6 @@
 <h1 align="center">Phrase of the day</h1>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=37ru5rna02jrtz4w8tq99icfl&count=5" alt="Spotify recently played"  />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
   </a>
 </div>
