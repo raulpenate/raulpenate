@@ -1,4 +1,4 @@
-### Hello! I'm Raúl Peñate
+### Hello! I'm Raúl Peñate | AKA: The Eagle 🦅
 A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, and Java.
 
 <details>
