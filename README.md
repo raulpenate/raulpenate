@@ -6,7 +6,6 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   
   <div align="center">
     | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a> |
-    | ------------- | ------------- |
   </div>
 </details>
 
@@ -33,7 +32,6 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   
   <div align="center">
     | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/raulpenate/github-readme-quotes) |
-    |---|
   </div>
 </details>
 
