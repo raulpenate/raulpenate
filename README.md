@@ -92,7 +92,7 @@
 
 
 <div align="center">
-  <h1 align="center">My last Dev.to article</h1>
+  <h1 align="center">Last Dev.to article</h1>
   <a href="https://dev.to/raulpenate">
     <img src="https://latest-devto-post.vercel.app/api?username=raulpenate" alt="Latest Dev.to">
   </a>
