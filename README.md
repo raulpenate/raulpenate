@@ -1,4 +1,4 @@
-<p align="center">Tech that I know:</p>
+<h1 align="center">Tech that I know:</h1>
 
 ###
 
