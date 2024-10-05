@@ -1,6 +1,6 @@
-<h1 align="center">Tech that I know:</h1>
-
 ###
+
+<h1 align="center">Tech that I know:</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -90,7 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
 </div>
 
-###
 
 <div align="center">
   <h1 align="center">My last Dev.to article:</h1>
@@ -101,6 +100,7 @@
 
 
 ###
+
 <h1 align="center">Music:</h1>
 <div align="center">
   <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
