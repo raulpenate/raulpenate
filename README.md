@@ -1,12 +1,13 @@
 ### Hello! I'm Raúl Peñate
 A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, and Java.
 
-
 <details>
-  <summary style="text-align: center;">Github Stats 📊</summary>
+  <summary style="text-align: center;">My last article 📝</summary>
   
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a>
+    <a href="https://dev.to/raulpenate">
+      <img src="https://latest-devto-post.vercel.app/api?username=raulpenate" alt="Latest Dev.to">
+    </a>
   </div>
 </details>
 
@@ -21,12 +22,10 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
 </details>
 
 <details>
-  <summary style="text-align: center;">My last article 📝</summary>
+  <summary style="text-align: center;">Github Stats 📊</summary>
   
   <div align="center">
-    <a href="https://dev.to/raulpenate">
-      <img src="https://latest-devto-post.vercel.app/api?username=raulpenate" alt="Latest Dev.to">
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a>
   </div>
 </details>
 
