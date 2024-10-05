@@ -25,7 +25,7 @@ A SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, a
   <summary style="text-align: center;">Github Stats 📊</summary>
   
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&theme=vue&hide_border=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpenate&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="raulpenate's github stats" /></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpenate&layout=compact&hide_border=true" /></a>
   </div>
 </details>
 
