@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Tech that I know:</h1>
+<h1 align="center">Tech that I know</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -92,7 +92,7 @@
 
 
 <div align="center">
-  <h1 align="center">My last Dev.to article:</h1>
+  <h1 align="center">My last Dev.to article</h1>
   <a href="https://dev.to/raulpenate">
     <img src="https://latest-devto-post.vercel.app/api?username=raulpenate" alt="Latest Dev.to">
   </a>
@@ -101,7 +101,7 @@
 
 ###
 
-<h1 align="center">Music:</h1>
+<h1 align="center">Music</h1>
 <div align="center">
   <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=37ru5rna02jrtz4w8tq99icfl&count=5" alt="Spotify recently played"  />
