@@ -1,8 +1,6 @@
 ### Hello! I'm Raúl Peñate | AKA: The Eagle 🦅
 Fullstack SWE and future Cloud Engineer who loves to work with Typescript, Golang, C#, and Java.
 
-[![committers.top badge](https://user-badge.committers.top/el_salvador/USERNAME.svg)](https://user-badge.committers.top/el_salvador/USERNAME)
-
 <details>
   <summary style="text-align: center;">My last article 📝</summary>
   
@@ -48,6 +46,8 @@ Fullstack SWE and future Cloud Engineer who loves to work with Typescript, Golan
       </a>
   </div>
 </details>
+
+[![committers.top badge](https://user-badge.committers.top/el_salvador/USERNAME.svg)](https://user-badge.committers.top/el_salvador/raulpenate)
 
 <h1 align="center">Tech that I know</h1>
 <div align="center">
