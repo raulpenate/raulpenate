@@ -47,7 +47,7 @@ Fullstack SWE and future Cloud Engineer who loves to work with Typescript, Golan
   </div>
 </details>
 
-[![committers.top badge](https://user-badge.committers.top/el_salvador/USERNAME.svg)](https://user-badge.committers.top/el_salvador/raulpenate)
+[![committers.top badge](https://user-badge.committers.top/el_salvador/raulpenate.svg)](https://user-badge.committers.top/el_salvador/raulpenate)
 
 <h1 align="center">Tech that I know</h1>
 <div align="center">
