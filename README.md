@@ -16,7 +16,7 @@ Fullstack SWE and future Cloud Engineer who loves to work with Typescript, Golan
   
   <div align="center">
     <a href="https://open.spotify.com/user/37ru5rna02jrtz4w8tq99icfl">
-     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=37ru5rna02jrtz4w8tq99icfl&amp;footer=wave" alt="Spotify recently played" width="620" />
+     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=37ru5rna02jrtz4w8tq99icfl&amp;footer=wave" alt="Spotify recently played" width="400" />
     </a>
   </div>
 </details>
